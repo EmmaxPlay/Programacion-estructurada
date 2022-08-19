@@ -4,3 +4,6 @@
 //     printf("%d\n",i);
 // }
 
+// Secuencia de caracteres, letras, digitos y subrayados
+// Estos son simplemente los nombres que pueden
+// No deben ser palagras reservadas
